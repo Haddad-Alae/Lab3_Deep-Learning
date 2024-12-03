@@ -1,0 +1,1 @@
+Le modèle LSTM montre une réduction de la perte au fil des époques, ce qui indique un apprentissage progressif. La perte passe de 35,76 à 22,47, ce qui montre que le modèle améliore ses prédictions. L'erreur quadratique moyenne (MSE) de 6,83 sur les données de test suggère que les prédictions ne sont pas parfaites
